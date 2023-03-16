@@ -1,0 +1,1 @@
+"{\r\n  \"status\" : \"success\",\r\n  \"data\" : {\r\n    \"id\" : 8264,\r\n    \"employee_name\" : \"test\",\r\n    \"employee_salary\" : 123,\r\n    \"employee_age\" : 23,\r\n    \"profile_image\" : null\r\n  },\r\n  \"message\" : \"Successfully! Record has been added.\"\r\n}"
